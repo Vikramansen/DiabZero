@@ -6,9 +6,9 @@ Welcome to the Diabetes project! This toolkit is designed to provide valuable in
 
 ## Features
 
-- **Personalized Communication**: Utilize the fine-tuned version of GPT-4.0 Turbo to communicate with users in a personalized manner, addressing their specific needs and concerns related to prediabetes.
+- **Personalized Communication**: Utilize the fine-tuned version of GPT-4. It enables communication with users in a personalized manner, addressing their specific needs and concerns related to prediabetes.
 
-- **Educational Content**: Deliver high-quality educational content on diabetes prevention, healthy lifestyle choices, and management strategies tailored to the prediabetic audience.
+- **Personalised Educational Content**: Deliver high-quality educational content on diabetes prevention, healthy lifestyle choices, and management strategies tailored to the prediabetic audience.
 
 - **Interactive Conversations**: Foster engagement through interactive conversations, allowing users to ask questions and receive informative responses from the language model.
 
